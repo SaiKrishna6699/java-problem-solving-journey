@@ -74,6 +74,4 @@ public class addTwoNumbers {
 		System.out.println(Arrays.toString(result));
 		
 	}
-	
-	
 }
